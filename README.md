@@ -1,6 +1,6 @@
 # An exploratory series on test automation for web applications (source code)
 
-This is supplementary source code for an article at [dev.to](https://wwww.dev.to/)
+This is the accompanying source code to my dev.to article [An exploratory series on test automation for web applications](https://dev.to/bylwong)
 
 ![robots](robots.png)
 
