@@ -6,5 +6,8 @@ path = ChromeDriverManager().install()
 driver = webdriver.Chrome(path)
 driver.get("https://www.demoblaze.com/")
 
+login_button = driver.find_element_by_id("login2")
+login_button.click()
+
 sleep(5)
 driver.quit()
