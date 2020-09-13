@@ -23,5 +23,11 @@ password_input.send_keys("a")
 login_submit = login_modal.find_element_by_class_name("btn-primary")
 login_submit.click()
 
+products_table = driver.find_element_by_id("tbodyid")
+cards = products_table.find_elements_by_class_name("card-title")  # returns a list
+
+for card in cards:
+    print(card.text)
+
 sleep(5)
 driver.quit()
