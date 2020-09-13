@@ -1,6 +1,6 @@
-# An exploratory series on test automation for web applications (source code)
+# An introductory series on test automation of web applications - Part 1 - How to get started in test automation with web driver and Python (source code)
 
-This is the accompanying source code to my dev.to article [An exploratory series on test automation for web applications](https://dev.to/bylwong)
+This is the accompanying source code to my DEV article [An introductory series on test automation of web applications - Part 1 - How to get started in test automation with web driver and Python](https://dev.to/bylwong)
 
 ![robots](robots.png)
 
