@@ -1,8 +1,13 @@
-# An introductory series on test automation of web applications - Part 1 - How to get started in test automation with web driver and Python (source code)
+# Test Automation with Selenium WebDriver from <kbd>0</kbd>
 
-This is the accompanying source code to my DEV article [An introductory series on test automation of web applications - Part 1 - How to get started in test automation with web driver and Python](https://dev.to/bylwong)
+This is the accompanying source code to my DEV article [Test Automation with Selenium WebDriver from <kbd>0</kbd>](https://dev.to/bylwong)
+
+<figure>
 
 ![robots](robots.png)
+
+
+</figure>
 
 Clone the repo
 
